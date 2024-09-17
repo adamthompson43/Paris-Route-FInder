@@ -1,0 +1,30 @@
+Source,Destination,Distance,Street Name
+Place de la Concorde,Arc de Triomphe,2.2,Av. des Champs-Elysees
+Arc de Triomphe,J1,0.1,Av Marceau
+J1,J2,0.7,Av Marceau
+J2,J3,0.3,Av Marceau
+J3,J4,0.1,Av. du President Wilson
+J4,J5,0.3,Pont De Alma
+J5,Eiffel Tower,0.8,Quai Jacques Chirac
+J5,J7,1.3,Quai D'Orsay
+J7,J6,0.2,Pont de la Concorde
+J6,Place de la Concorde,0.1,Place de la Concorde
+J6,J8,0.85,Quai des Tuileries
+J8,Louvre Museum,0.1,Louvre Museum
+J7,J9,0.5,Bd Saint-Germain
+J9,J10,1.92,Bd Saint-German
+J10,J11,0.5,Bd Saint-Germain
+J11,J12,0.9,Bd Henri IV
+J12,Pere Lachaise Cemetery,1.3,Rue de la Roquette
+J13,Louvre Museum,1,Quai de la Megisserie
+J14,J8,1.21,Quai de Louvre
+J14,J15,0.25,Pont Notre Dame
+J15,J16,0.25,Quai de la Quai
+J16,Notre Dame,0.1,Rue Massilon
+Arc de Triomphe,J17,0.1,Arc de Triomphe
+J17,J18,1.88,Av. des Champs-Elysees
+J18,J19,0.5,Rue Royale
+J19,Palais Garnier,0.25,Bd de la Madeleine
+J7,Orsay Museum,0.37,Pl.Henry de Montherlant
+J9,Catacombs,1.26,Bd. Raspail
+J6,J18,0.1,Rue Royale
